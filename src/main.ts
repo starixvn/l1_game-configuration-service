@@ -15,10 +15,11 @@ const config = new DocumentBuilder()
 async function bootstrap() {
   const logger = createLogger();
   const app = await NestFactory.create(AppModule, { logger });
+  const corsOptions = { origin: (process.env.CORS_WHITELIST || '').split(',') };
 
   app.useLogger(logger);
   app.use(helmet());
-  app.enableCors({ origin: '*' });
+  app.enableCors(corsOptions);
 
   SwaggerModule.setup('api', app, SwaggerModule.createDocument(app, config));
 
