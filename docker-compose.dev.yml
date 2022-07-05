@@ -1,0 +1,8 @@
+version: '3.0'
+services:
+  service:
+    build: .
+    environment:
+      - PORT=5050
+    ports:
+      - 5050:5050
