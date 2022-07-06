@@ -10,7 +10,3 @@ export function loadYAMLFile() {
 
   Object.assign(process.env, shared, configs);
 }
-
-export default () => {
-  return {};
-};
