@@ -2,7 +2,7 @@ import { Controller, Get } from '@nestjs/common';
 import { QueryBus } from '@nestjs/cqrs';
 import { GetConfigurationRequest } from './requests';
 
-@Controller('game/configurations')
+@Controller('configurations')
 export class GameConfigurationController {
   constructor(private readonly query: QueryBus) {}
 
