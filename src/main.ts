@@ -2,7 +2,7 @@ import { NestFactory } from '@nestjs/core';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 import helmet from 'helmet';
 import * as PackageJson from '../package.json';
-import { AppModule } from './app.module';
+import { AppModule } from './app-module';
 import { createLogger, loadYAMLFile } from './common';
 
 const host = '0.0.0.0';
