@@ -24,6 +24,7 @@ const configurations: GameConfiguration[] = [
       miniPanel: true,
     },
     order: 700,
+    category: 'casino',
   },
   {
     id: 2,
@@ -34,6 +35,7 @@ const configurations: GameConfiguration[] = [
       displayTime: 10,
       order: 1,
     },
+    category: 'sedie',
   },
   {
     id: 3,
@@ -43,6 +45,7 @@ const configurations: GameConfiguration[] = [
     mini: {
       miniPanel: true,
     },
+    category: 'casino',
   },
   {
     id: 4,
@@ -53,6 +56,7 @@ const configurations: GameConfiguration[] = [
       miniPanel: true,
     },
     route: 'turbobigsmall',
+    category: 'casino',
   },
   {
     id: 6,
@@ -63,6 +67,7 @@ const configurations: GameConfiguration[] = [
       miniPanel: true,
     },
     route: 'turbooddeven',
+    category: 'casino',
   },
   {
     id: 7,
@@ -72,12 +77,14 @@ const configurations: GameConfiguration[] = [
     mini: {
       miniPanel: true,
     },
+    category: 'card',
   },
   {
     id: 8,
     name: 'KenoProMax',
     key: 'KenoProMax',
     order: 1300,
+    category: 'lottery',
   },
   {
     id: 9,
@@ -87,12 +94,14 @@ const configurations: GameConfiguration[] = [
     mini: {
       miniPanel: true,
     },
+    category: 'sedie',
   },
   {
     id: 10,
     name: 'Baccarat',
     key: 'Baccarat',
     order: 1600,
+    category: 'card',
   },
   {
     id: 11,
@@ -103,6 +112,7 @@ const configurations: GameConfiguration[] = [
       miniPanel: false,
     },
     route: 'minikeno',
+    category: 'lottery',
   },
   {
     id: 12,
@@ -112,6 +122,7 @@ const configurations: GameConfiguration[] = [
       miniPanel: false,
     },
     route: 'minikeno',
+    category: 'lottery',
   },
   {
     id: 13,
@@ -181,6 +192,7 @@ const configurations: GameConfiguration[] = [
     name: 'Roulette',
     key: 'Roulette',
     order: 2200,
+    category: 'casino',
   },
   {
     id: 22,
@@ -188,12 +200,14 @@ const configurations: GameConfiguration[] = [
     key: 'VipSeDie',
     order: 200,
     route: 'vsedie',
+    category: 'sedie',
   },
   {
     id: 23,
     name: 'BlackJack',
     key: 'BlackJack',
     order: 2100,
+    category: 'card',
   },
   {
     id: 24,
@@ -203,30 +217,35 @@ const configurations: GameConfiguration[] = [
     mini: {
       miniPanel: false,
     },
+    category: 'sedie',
   },
   {
     id: 25,
     name: 'SicBo',
     key: 'SicBo',
     order: 600,
+    category: 'casino',
   },
   {
     id: 26,
     name: 'VipFishPrawnCrab',
     key: 'VipFishPrawnCrab',
     order: 1700,
+    category: 'casino',
   },
   {
     id: 27,
     name: 'VipBaccarat',
     key: 'VipBaccarat',
     order: 1500,
+    category: 'card',
   },
   {
     id: 28,
     name: 'VipSedieWar',
     key: 'VipSedieWar',
     order: 400,
+    category: 'sedie',
   },
   {
     id: 29,
@@ -234,18 +253,21 @@ const configurations: GameConfiguration[] = [
     key: 'FourGuardians',
     order: 1000,
     bigSize: true,
+    category: 'slot',
   },
   {
     id: 31,
     name: 'Lottery',
     key: 'Lottery',
     order: 2300,
+    category: 'lottery',
   },
   {
     id: 35,
     name: 'ThreeCards',
     key: 'ThreeCards',
     order: 2400,
+    category: 'card',
   },
   {
     id: 38,
@@ -253,12 +275,14 @@ const configurations: GameConfiguration[] = [
     key: 'HeroesSlot',
     order: 1100,
     bigSize: true,
+    category: 'slot',
   },
   {
     id: 39,
     name: 'CasinoHoldemPoker',
     key: 'CasinoHoldemPoker',
     order: 2600,
+    category: 'card',
   },
   {
     id: 42,
@@ -269,12 +293,14 @@ const configurations: GameConfiguration[] = [
       displayTime: 5,
       order: 100,
     },
+    category: 'card',
   },
   {
     id: 43,
     name: 'BitcoinMaster',
     key: 'BitcoinMaster',
     order: 2500,
+    category: 'other',
   },
   {
     id: 45,
@@ -288,6 +314,7 @@ const configurations: GameConfiguration[] = [
       displayTime: 5,
       order: 200,
     },
+    category: 'card',
   },
   {
     id: 46,
@@ -295,6 +322,7 @@ const configurations: GameConfiguration[] = [
     key: 'NightClub',
     order: 1200,
     bigSize: true,
+    category: 'slot',
   },
   {
     id: 47,
@@ -306,6 +334,7 @@ const configurations: GameConfiguration[] = [
     },
     bigSize: true,
     tag: 'new',
+    category: 'slot',
   },
 ];
 
