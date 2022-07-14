@@ -305,6 +305,7 @@ const configurations: GameConfiguration[] = [
       dependsOn: [],
     },
     bigSize: true,
+    tag: 'new',
   },
 ];
 
