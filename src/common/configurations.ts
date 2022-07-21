@@ -8,5 +8,5 @@ export function loadYAMLFile() {
   const shared = yaml.load(readFileSync(YAML_SHARED_FILE, 'utf8'));
   const configs = yaml.load(readFileSync(YAML_CONFIG_FILE, 'utf8'));
 
-  Object.assign(process.env, shared, configs);
+  process.env = Object.assign({}, process.env, shared, configs);
 }
