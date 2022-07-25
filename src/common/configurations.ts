@@ -1,12 +1,12 @@
-import { readFileSync } from 'fs';
+import { readFileSync, existsSync } from 'fs';
 import * as yaml from 'js-yaml';
 
-export function loadYAMLFile() {
-  const YAML_SHARED_FILE = 'src/configs/shared.yml';
-  const YAML_CONFIG_FILE = 'src/configs/env.yml';
+export function loadYAMLFile(...files: string[]) {
+  files.forEach((file) => {
+    if (existsSync(file)) {
+      const configs = yaml.load(readFileSync(file, 'utf8'));
 
-  const shared = yaml.load(readFileSync(YAML_SHARED_FILE, 'utf8'));
-  const configs = yaml.load(readFileSync(YAML_CONFIG_FILE, 'utf8'));
-
-  process.env = Object.assign({}, process.env, shared, configs);
+      process.env = Object.assign({}, process.env, configs);
+    }
+  });
 }

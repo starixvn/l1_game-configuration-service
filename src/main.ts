@@ -26,5 +26,5 @@ async function bootstrap() {
   await app.listen(process.env.PORT, host);
 }
 
-loadYAMLFile();
+loadYAMLFile('src/configs/shared.yml', 'src/configs/env.yml');
 bootstrap();
