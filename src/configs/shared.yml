@@ -240,3 +240,44 @@ GAMES:
     bigSize: true
     tag: new
     category: slot
+  - id: 50
+    name: UnbalancedBigSmall1
+    key: UnbalancedBigSmall1
+    order: 150
+    remoteBundle:
+      dependsOn: []
+    category: casino
+    route: unbalancedbigsmall
+    mini:
+      miniPanel: false
+      multi: UnbalancedBigSmall
+  - id: 51
+    name: UnbalancedBigSmall2
+    key: UnbalancedBigSmall2
+    remoteBundle:
+      dependsOn: []
+    category: casino
+    route: unbalancedbigsmall
+    mini:
+      miniPanel: false
+      multi: UnbalancedBigSmall
+  - id: 54
+    name: UnbalancedBigSmall3
+    key: UnbalancedBigSmall3
+    remoteBundle:
+      dependsOn: []
+    category: casino
+    route: unbalancedbigsmall
+    mini:
+      miniPanel: false
+      multi: UnbalancedBigSmall
+  - id: 55
+    name: UnbalancedBigSmall4
+    key: UnbalancedBigSmall4
+    remoteBundle:
+      dependsOn: []
+    category: casino
+    route: unbalancedbigsmall
+    mini:
+      miniPanel: false
+      multi: UnbalancedBigSmall
