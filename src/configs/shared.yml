@@ -76,9 +76,8 @@ GAMES:
     order: 1600
     category: card
   - id: 11
-    name: KenoProViet
+    name: KenoMax
     key: KenoMax
-    order: 1400
     mini:
       miniPanel: false
     route: minikeno
@@ -86,6 +85,7 @@ GAMES:
   - id: 12
     name: KenoMax
     key: KenoMax
+    order: 1400
     mini:
       miniPanel: false
     route: minikeno
