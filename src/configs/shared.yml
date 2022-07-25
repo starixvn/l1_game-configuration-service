@@ -250,7 +250,6 @@ GAMES:
     route: unbalancedbigsmall
     mini:
       miniPanel: false
-      multi: UnbalancedBigSmall
   - id: 51
     name: UnbalancedBigSmall2
     key: UnbalancedBigSmall2
@@ -260,7 +259,6 @@ GAMES:
     route: unbalancedbigsmall
     mini:
       miniPanel: false
-      multi: UnbalancedBigSmall
   - id: 54
     name: UnbalancedBigSmall3
     key: UnbalancedBigSmall3
@@ -270,7 +268,6 @@ GAMES:
     route: unbalancedbigsmall
     mini:
       miniPanel: false
-      multi: UnbalancedBigSmall
   - id: 55
     name: UnbalancedBigSmall4
     key: UnbalancedBigSmall4
@@ -280,4 +277,3 @@ GAMES:
     route: unbalancedbigsmall
     mini:
       miniPanel: false
-      multi: UnbalancedBigSmall

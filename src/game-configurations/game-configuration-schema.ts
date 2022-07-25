@@ -4,9 +4,6 @@ import { Prop, Schema, SchemaFactory } from '@nestjs/mongoose';
 export class MiniGameConfiguration {
   @Prop({ type: Boolean, default: false })
   miniPanel: boolean;
-
-  @Prop()
-  multi?: string;
 }
 
 @Schema()
