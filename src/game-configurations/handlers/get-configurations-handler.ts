@@ -1,5 +1,5 @@
 import { IQueryHandler, QueryHandler } from '@nestjs/cqrs';
-import { loadYAMLFile } from 'src/common';
+import { loadYAMLFile } from '../../common';
 import { GameConfiguration } from '../game-configuration-schema';
 import { GetConfigurationRequest } from '../requests';
 
