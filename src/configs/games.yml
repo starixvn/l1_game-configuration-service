@@ -207,6 +207,8 @@ GAMES:
   - id: 43
     name: BitcoinMaster
     key: BitcoinMaster
+    mini:
+      miniPanel: false
     order: 2500
     category: other
   - id: 45
