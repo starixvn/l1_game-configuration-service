@@ -246,6 +246,8 @@ GAMES:
     route: unbalancedbigsmall
     mini:
       miniPanel: false
+    bigSize: true
+    tag: new
   - id: 51
     name: UnbalancedBigSmall2
     key: UnbalancedBigSmall2
