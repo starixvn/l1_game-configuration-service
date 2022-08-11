@@ -292,11 +292,22 @@ GAMES:
       dependsOn: []
     category: card
   - id: 52
-    name: KenoProViet
-    key: KenoProViet
+    name: MegaKeno
+    key: MegaKeno
     mini:
       miniPanel: false
     order: 2400
+    route: "minikeno"
+    remoteBundle:
+      dependsOn: []
+    category: lottery
+  - id: 53
+    name: MegaKeno2
+    key: MegaKeno2
+    mini:
+      miniPanel: false
+    order: 2400
+    route: "minikeno"
     remoteBundle:
       dependsOn: []
     category: lottery
