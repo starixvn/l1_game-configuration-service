@@ -284,3 +284,20 @@ GAMES:
     bigSize: true
     tag: new
     category: slot
+  - id: 48
+    name: BlockchainBaccarat
+    key: BlockchainBaccarat
+    order: 1400
+    remoteBundle:
+      dependsOn: []
+    category: card
+  - id: 52
+    name: KenoProViet
+    key: KenoProViet
+    mini:
+      miniPanel: false
+    order: 2400
+    remoteBundle:
+      dependsOn: []
+    category: lottery
+    
