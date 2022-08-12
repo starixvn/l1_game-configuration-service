@@ -76,14 +76,6 @@ GAMES:
       miniPanel: false
     route: minikeno
     category: lottery
-  - id: 12
-    name: KenoMax
-    key: KenoMax
-    order: 1400
-    mini:
-      miniPanel: false
-    route: minikeno
-    category: lottery
   - id: 13
     name: KenoMax2
     key: KenoMax2
@@ -297,18 +289,5 @@ GAMES:
     mini:
       miniPanel: false
     order: 2400
-    route: "minikeno"
-    remoteBundle:
-      dependsOn: []
-    category: lottery
-  - id: 53
-    name: MegaKeno2
-    key: MegaKeno2
-    mini:
-      miniPanel: false
-    order: 2400
-    route: "minikeno"
-    remoteBundle:
-      dependsOn: []
     category: lottery
     
