@@ -220,7 +220,7 @@ GAMES:
   - id: 47
     name: TreasureIsland
     key: TreasureIsland
-    order: 1
+    order: 1201
     remoteBundle:
       dependsOn: []
     bigSize: true
@@ -291,3 +291,12 @@ GAMES:
     mini:
       miniPanel: false
     route: minikeno
+  - id: 49
+    name: WayToGoal
+    key: WayToGoal
+    order: 1
+    remoteBundle:
+      dependsOn: []
+    bigSize: true
+    tag: new
+    category: slot
