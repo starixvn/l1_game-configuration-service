@@ -7,6 +7,7 @@ GAMES:
     key: main
     mini:
       miniPanel: true
+    order: 1750
   - id: 1
     name: BigSmall
     key: BigSmall
@@ -290,4 +291,3 @@ GAMES:
       miniPanel: false
     order: 2400
     category: lottery
-    
