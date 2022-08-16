@@ -14,7 +14,7 @@ GAMES:
     mini:
       miniPanel: true
     order: 700
-    category: casino
+    category: bigsmall
   - id: 2
     name: SeDie
     key: SeDie
@@ -29,7 +29,7 @@ GAMES:
     order: 1800
     mini:
       miniPanel: true
-    category: casino
+    category: other
   - id: 4
     name: TurboBigSmall
     key: TXTurbo
@@ -37,7 +37,7 @@ GAMES:
     mini:
       miniPanel: true
     route: turbobigsmall
-    category: casino
+    category: bigsmall
   - id: 6
     name: TurboOddEven
     key: OETurbo
@@ -45,7 +45,7 @@ GAMES:
     mini:
       miniPanel: true
     route: turbooddeven
-    category: casino
+    category: bigsmall
   - id: 7
     name: DragonTiger
     key: DragonTiger
@@ -123,7 +123,7 @@ GAMES:
     name: Roulette
     key: Roulette
     order: 2200
-    category: casino
+    category: other
   - id: 22
     name: VipSedie
     key: VipSeDie
@@ -146,12 +146,12 @@ GAMES:
     name: SicBo
     key: SicBo
     order: 600
-    category: casino
+    category: bigsmall
   - id: 26
     name: VipFishPrawnCrab
     key: VipFishPrawnCrab
     order: 1700
-    category: casino
+    category: other
   - id: 27
     name: VipBaccarat
     key: VipBaccarat
@@ -235,7 +235,7 @@ GAMES:
     order: 150
     remoteBundle:
       dependsOn: []
-    category: casino
+    category: bigsmall
     route: unbalancedbigsmall
     mini:
       miniPanel: false
@@ -246,7 +246,7 @@ GAMES:
     key: UnbalancedBigSmall2
     remoteBundle:
       dependsOn: []
-    category: casino
+    category: bigsmall
     route: unbalancedbigsmall
     mini:
       miniPanel: false
@@ -255,7 +255,7 @@ GAMES:
     key: UnbalancedBigSmall3
     remoteBundle:
       dependsOn: []
-    category: casino
+    category: bigsmall
     route: unbalancedbigsmall
     mini:
       miniPanel: false
@@ -264,7 +264,7 @@ GAMES:
     key: UnbalancedBigSmall4
     remoteBundle:
       dependsOn: []
-    category: casino
+    category: bigsmall
     route: unbalancedbigsmall
     mini:
       miniPanel: false
