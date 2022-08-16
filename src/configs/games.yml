@@ -268,15 +268,6 @@ GAMES:
     route: unbalancedbigsmall
     mini:
       miniPanel: false
-  - id: 49
-    name: WayToGoal
-    key: WayToGoal
-    order: 1
-    remoteBundle:
-      dependsOn: []
-    bigSize: true
-    tag: new
-    category: slot
   - id: 48
     name: BlockchainBaccarat
     key: BlockchainBaccarat
