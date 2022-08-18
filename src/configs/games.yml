@@ -281,3 +281,4 @@ GAMES:
       miniPanel: false
     order: 2400
     category: lottery
+    route: minikeno
