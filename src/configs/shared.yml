@@ -1,5 +1,4 @@
 PORT: 5000
 ENV: 'DEV'
 SENTRY_DNS: https://ac3200f10e6f47f3a72bbc830cf77e9b@sentry.lumigame.com/74
-CORS_WHITELIST:
-  - http://localhost:7456
+CORS_WHITELIST: '*'
