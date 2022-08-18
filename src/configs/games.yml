@@ -282,3 +282,9 @@ GAMES:
     order: 2400
     category: lottery
     route: minikeno
+  - id: 53
+    name: MegaKeno2
+    key: MegaKeno2
+    mini:
+      miniPanel: false
+    route: minikeno
