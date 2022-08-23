@@ -20,8 +20,8 @@ GAMES:
     key: SeDie
     order: 300
     banner:
-      displayTime: 10
-      order: 1
+      displayTime: 5
+      order: 3
     category: sedie
   - id: 3
     name: FishPrawnCrab
@@ -195,7 +195,7 @@ GAMES:
     order: 2800
     banner:
       displayTime: 5
-      order: 100
+      order: 4
     category: card
   - id: 43
     name: BitcoinMaster
@@ -210,9 +210,6 @@ GAMES:
     order: 2700
     mini:
       miniPanel: true
-    banner:
-      displayTime: 5
-      order: 200
     category: card
   - id: 46
     name: NightClub
@@ -231,9 +228,12 @@ GAMES:
   - id: 50
     name: UnbalancedBigSmall1
     key: UnbalancedBigSmall1
-    order: 150
+    order: 950
     remoteBundle:
       dependsOn: []
+    banner:
+      displayTime: 10
+      order: 1
     category: bigsmall
     route: unbalancedbigsmall
     mini:
@@ -273,6 +273,9 @@ GAMES:
     order: 1400
     remoteBundle:
       dependsOn: []
+    banner:
+      displayTime: 5
+      order: 2
     category: card
   - id: 52
     name: MegaKeno
