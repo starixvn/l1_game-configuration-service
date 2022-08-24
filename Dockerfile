@@ -18,11 +18,13 @@ RUN yarn reg\
     && yarn install --production\
     && npx mod-pruner prune --force\
     && rm yarn.lock\
-    && rm .modprunerrc
+    && rm .modprunerrc\
+    && rm tsconfig*
 
 # Production Stage
 
 FROM hub.lumigame.com/docker-hub/library/node:18.1-alpine
+USER node
 WORKDIR /app
 ENV NODE_ENV production
 ENV PORT 5000

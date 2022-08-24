@@ -1,0 +1,10 @@
+include:
+  - project: 'ci/repos-ci/pentagon_l1_game_configuration_service'
+    ref: master
+    file: 'gitlab-ci.yml'
+
+unit-test-js:
+  artifacts:
+    reports:
+      junit: coverage/*.xml
+      cobertura: coverage/cobertura-coverage.xml

@@ -1,3 +1,15 @@
 {
-  "passWithNoTests": true
+  "passWithNoTests": true,
+  "testRegex": ".*\\.spec\\.ts$",
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "collectCoverage": true,
+  "collectCoverageFrom": ["src/**/*.(t|j)s"],
+  "coverageDirectory": "coverage",
+  "coverageReporters": ["cobertura", "text-summary", "text", "lcov"],
+  "coveragePathIgnorePatterns": ["/node_modules/", "main.ts"],
+  "testEnvironment": "node",
+  "reporters": ["default", ["jest-junit", { "outputDirectory": "coverage" }]],
+  "testResultsProcessor": "jest-sonar-reporter"
 }
