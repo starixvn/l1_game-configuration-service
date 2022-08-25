@@ -60,11 +60,44 @@ GAMES:
     category: lottery
   - id: 9
     name: MiniSedie
-    key: MiniSeDie
+    key: MiniSedie
     order: 500
-    mini:
-      miniPanel: true
+    remoteBundle:
+      dependsOn: []
+    banner:
+      displayTime: 10
+      order: 1
     category: sedie
+    route: minisedie
+    mini:
+      miniPanel: false
+  - id: 56
+    name: MiniSedie2
+    key: MiniSedie2
+    remoteBundle:
+      dependsOn: []
+    category: sedie
+    route: minisedie
+    mini:
+      miniPanel: false
+  - id: 57
+    name: MiniSedie3
+    key: MiniSedie3
+    remoteBundle:
+      dependsOn: []
+    category: sedie
+    route: minisedie
+    mini:
+      miniPanel: false
+  - id: 58
+    name: MiniSedie4
+    key: MiniSedie4
+    remoteBundle:
+      dependsOn: []
+    category: sedie
+    route: minisedie
+    mini:
+      miniPanel: false
   - id: 10
     name: Baccarat
     key: Baccarat
