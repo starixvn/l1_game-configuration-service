@@ -282,7 +282,7 @@ GAMES:
     key: MegaKeno
     mini:
       miniPanel: false
-    order: 2400
+    order: 1350
     category: lottery
     route: minikeno
   - id: 53
