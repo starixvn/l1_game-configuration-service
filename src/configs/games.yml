@@ -28,14 +28,14 @@ GAMES:
     key: FishPrawnCrab
     order: 1800
     mini:
-      miniPanel: false
+      miniPanel: true
     category: other
   - id: 4
     name: TurboBigSmall
     key: TXTurbo
     order: 800
     mini:
-      miniPanel: true
+      miniPanel: false
     route: turbobigsmall
     category: bigsmall
   - id: 6
