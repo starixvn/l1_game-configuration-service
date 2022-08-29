@@ -59,8 +59,8 @@ GAMES:
     order: 1300
     category: lottery
   - id: 9
-    name: MiniSedie
-    key: MiniSedie
+    name: MiniSeDie
+    key: MiniSeDie
     order: 500
     remoteBundle:
       dependsOn: []
@@ -72,8 +72,8 @@ GAMES:
     mini:
       miniPanel: false
   - id: 56
-    name: MiniSedie2
-    key: MiniSedie2
+    name: MiniSeDie2
+    key: MiniSeDie2
     remoteBundle:
       dependsOn: []
     category: sedie
@@ -81,8 +81,8 @@ GAMES:
     mini:
       miniPanel: false
   - id: 57
-    name: MiniSedie3
-    key: MiniSedie3
+    name: MiniSeDie3
+    key: MiniSeDie3
     remoteBundle:
       dependsOn: []
     category: sedie
@@ -90,8 +90,8 @@ GAMES:
     mini:
       miniPanel: false
   - id: 58
-    name: MiniSedie4
-    key: MiniSedie4
+    name: MiniSeDie4
+    key: MiniSeDie4
     remoteBundle:
       dependsOn: []
     category: sedie
