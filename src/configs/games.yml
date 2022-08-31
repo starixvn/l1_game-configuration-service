@@ -35,7 +35,7 @@ GAMES:
     key: TXTurbo
     order: 800
     mini:
-      miniPanel: true
+      miniPanel: false
     route: turbobigsmall
     category: bigsmall
   - id: 6
@@ -237,7 +237,7 @@ GAMES:
     category: bigsmall
     route: unbalancedbigsmall
     mini:
-      miniPanel: false
+      miniPanel: true
     bigSize: true
     tag: new
   - id: 51
@@ -248,7 +248,7 @@ GAMES:
     category: bigsmall
     route: unbalancedbigsmall
     mini:
-      miniPanel: false
+      miniPanel: true
   - id: 54
     name: UnbalancedBigSmall3
     key: UnbalancedBigSmall3
@@ -257,7 +257,7 @@ GAMES:
     category: bigsmall
     route: unbalancedbigsmall
     mini:
-      miniPanel: false
+      miniPanel: true
   - id: 55
     name: UnbalancedBigSmall4
     key: UnbalancedBigSmall4
@@ -266,7 +266,7 @@ GAMES:
     category: bigsmall
     route: unbalancedbigsmall
     mini:
-      miniPanel: false
+      miniPanel: true
   - id: 48
     name: BlockchainBaccarat
     key: BlockchainBaccarat
