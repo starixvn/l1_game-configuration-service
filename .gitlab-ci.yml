@@ -8,3 +8,8 @@ unit-test-js:
     reports:
       junit: coverage/*.xml
       cobertura: coverage/cobertura-coverage.xml
+
+integration-tests:
+  rules:
+    - when: never
+    
