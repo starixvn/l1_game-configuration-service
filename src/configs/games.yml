@@ -70,7 +70,7 @@ GAMES:
     category: sedie
     route: minisedie
     mini:
-      miniPanel: false
+      miniPanel: true
   - id: 56
     name: MiniSeDie2
     key: MiniSeDie2
