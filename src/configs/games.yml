@@ -120,38 +120,26 @@ GAMES:
   - id: 14
     name: KenoMini
     key: KenoMini
-    mini:
-      miniPanel: false
     route: minikeno
   - id: 15
     name: KenoMini2
     key: KenoMini2
-    mini:
-      miniPanel: false
     route: minikeno
   - id: 16
     name: KenoEast
     key: KenoEast
-    mini:
-      miniPanel: false
     route: minikeno
   - id: 17
     name: KenoWest
     key: KenoWest
-    mini:
-      miniPanel: false
     route: minikeno
   - id: 18
     name: KenoSouth
     key: KenoSouth
-    mini:
-      miniPanel: false
     route: minikeno
   - id: 19
     name: KenoNorth
     key: KenoNorth
-    mini:
-      miniPanel: false
     route: minikeno
   - id: 21
     name: Roulette
@@ -310,16 +298,12 @@ GAMES:
   - id: 52
     name: MegaKeno
     key: MegaKeno
-    mini:
-      miniPanel: false
     order: 1350
-    category: lottery
     route: minikeno
+    category: lottery
   - id: 53
     name: MegaKeno2
     key: MegaKeno2
-    mini:
-      miniPanel: false
     route: minikeno
   - id: 49
     name: WayToGoal
