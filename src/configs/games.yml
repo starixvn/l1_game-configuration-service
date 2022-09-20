@@ -79,7 +79,7 @@ GAMES:
     category: sedie
     route: minisedie
     mini:
-      miniPanel: false
+      miniPanel: true
   - id: 57
     name: MiniSeDie3
     key: MiniSeDie3
@@ -88,7 +88,7 @@ GAMES:
     category: sedie
     route: minisedie
     mini:
-      miniPanel: false
+      miniPanel: true
   - id: 58
     name: MiniSeDie4
     key: MiniSeDie4
@@ -97,7 +97,7 @@ GAMES:
     category: sedie
     route: minisedie
     mini:
-      miniPanel: false
+      miniPanel: true
   - id: 10
     name: Baccarat
     key: Baccarat
