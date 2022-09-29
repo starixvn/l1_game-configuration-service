@@ -21,7 +21,7 @@ GAMES:
     order: 300
     banner:
       displayTime: 5
-      order: 3
+      order: 4
     category: sedie
   - id: 3
     name: FishPrawnCrab
@@ -69,6 +69,7 @@ GAMES:
       order: 1
     category: sedie
     route: minisedie
+    tag: new
     mini:
       miniPanel: true
   - id: 56
@@ -226,9 +227,6 @@ GAMES:
     name: TexasHoldemPoker
     key: TexasHoldemPoker
     order: 2800
-    banner:
-      displayTime: 5
-      order: 4
     category: card
   - id: 43
     name: BitcoinMaster
@@ -265,8 +263,8 @@ GAMES:
     remoteBundle:
       dependsOn: []
     banner:
-      displayTime: 10
-      order: 1
+      displayTime: 5
+      order: 2
     category: bigsmall
     route: unbalancedbigsmall
     mini:
@@ -307,7 +305,7 @@ GAMES:
       dependsOn: []
     banner:
       displayTime: 5
-      order: 2
+      order: 3
     category: card
   - id: 52
     name: MegaKeno
@@ -330,5 +328,4 @@ GAMES:
     remoteBundle:
       dependsOn: []
     bigSize: true
-    tag: new
     category: slot
