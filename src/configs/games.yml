@@ -270,6 +270,7 @@ GAMES:
     mini:
       miniPanel: true
     bigSize: true
+    tag: new
   - id: 51
     name: UnbalancedBigSmall2
     key: UnbalancedBigSmall2
@@ -328,4 +329,5 @@ GAMES:
     remoteBundle:
       dependsOn: []
     bigSize: true
+    tag: new
     category: slot
