@@ -118,26 +118,38 @@ GAMES:
   - id: 14
     name: KenoMini
     key: KenoMini
+    remoteBundle:
+      dependsOn: []
     route: minikeno
   - id: 15
     name: KenoMini2
     key: KenoMini2
+    remoteBundle:
+      dependsOn: []
     route: minikeno
   - id: 16
     name: KenoEast
     key: KenoEast
+    remoteBundle:
+      dependsOn: []
     route: minikeno
   - id: 17
     name: KenoWest
     key: KenoWest
+    remoteBundle:
+      dependsOn: []
     route: minikeno
   - id: 18
     name: KenoSouth
     key: KenoSouth
+    remoteBundle:
+      dependsOn: []
     route: minikeno
   - id: 19
     name: KenoNorth
     key: KenoNorth
+    remoteBundle:
+      dependsOn: []
     route: minikeno
   - id: 21
     name: Roulette
@@ -296,12 +308,16 @@ GAMES:
   - id: 52
     name: MegaKeno
     key: MegaKeno
+    remoteBundle:
+      dependsOn: []
     order: 1350
     route: minikeno
     category: lottery
   - id: 53
     name: MegaKeno2
     key: MegaKeno2
+    remoteBundle:
+      dependsOn: []
     route: minikeno
   - id: 49
     name: WayToGoal
