@@ -5,6 +5,8 @@ GAMES:
   - id: 0
     name: Lobby
     key: main
+    mini:
+      miniPanel: true
     order: 1750
   - id: 1
     name: BigSmall
