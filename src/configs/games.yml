@@ -69,7 +69,6 @@ GAMES:
       order: 1
     category: sedie
     route: minisedie
-    tag: new
     mini:
       miniPanel: true
   - id: 56
@@ -314,6 +313,7 @@ GAMES:
       dependsOn: []
     order: 1350
     route: minikeno
+    tag: new
     category: lottery
   - id: 53
     name: MegaKeno2
