@@ -324,9 +324,18 @@ GAMES:
   - id: 49
     name: WayToGoal
     key: WayToGoal
+    order: 2
+    remoteBundle:
+      dependsOn: []
+    bigSize: true
+    category: slot
+  - id: 59
+    name: FruitSlot
+    key: FruitSlot
     order: 1
     remoteBundle:
       dependsOn: []
     bigSize: true
     tag: new
     category: slot
+    tag: new
