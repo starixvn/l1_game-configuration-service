@@ -341,3 +341,13 @@ GAMES:
     bigSize: true
     tag: new
     category: slot
+  - id: 60
+    name: FanTan
+    key: FanTan
+    order: 1360
+    remoteBundle:
+      dependsOn: []
+    category: lottery
+    banner:
+      displayTime: 5
+      order: 3
