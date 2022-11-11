@@ -339,7 +339,6 @@ GAMES:
     remoteBundle:
       dependsOn: []
     bigSize: true
-    tag: new
     category: slot
   - id: 60
     name: FanTan
@@ -347,7 +346,8 @@ GAMES:
     order: 1360
     remoteBundle:
       dependsOn: []
-    category: lottery
+    tag: new
+    category: other
     banner:
       displayTime: 5
       order: 3
