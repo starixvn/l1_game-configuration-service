@@ -351,3 +351,11 @@ GAMES:
     banner:
       displayTime: 5
       order: 3
+  - id: 62
+    name: FortuneCat
+    key: FortuneCat
+    order: 1
+    remoteBundle:
+      dependsOn: []
+    bigSize: true
+    category: slot
