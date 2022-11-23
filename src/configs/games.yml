@@ -65,8 +65,8 @@ GAMES:
     remoteBundle:
       dependsOn: []
     banner:
-      displayTime: 10
-      order: 1
+      displayTime: 5
+      order: 2
     category: sedie
     route: minisedie
     mini:
@@ -261,9 +261,6 @@ GAMES:
     order: 950
     remoteBundle:
       dependsOn: []
-    banner:
-      displayTime: 5
-      order: 2
     category: bigsmall
     route: unbalancedbigsmall
     mini:
@@ -314,6 +311,9 @@ GAMES:
     order: 1350
     route: minikeno
     tag: new
+    banner:
+      displayTime: 10
+      order: 1
     category: lottery
   - id: 53
     name: MegaKeno2
