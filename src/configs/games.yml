@@ -21,7 +21,7 @@ GAMES:
     order: 300
     banner:
       displayTime: 5
-      order: 4
+      order: 5
     category: sedie
   - id: 3
     name: FishPrawnCrab
@@ -227,6 +227,9 @@ GAMES:
     key: TexasHoldemPoker
     order: 2800
     category: card
+    banner:
+      displayTime: 5
+      order: 3
   - id: 43
     name: BitcoinMaster
     key: BitcoinMaster
@@ -301,7 +304,7 @@ GAMES:
       dependsOn: []
     banner:
       displayTime: 5
-      order: 3
+      order: 4
     category: card
   - id: 52
     name: MegaKeno
