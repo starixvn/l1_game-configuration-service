@@ -355,7 +355,5 @@ GAMES:
     name: FortuneCat
     key: FortuneCat
     order: 1
-    remoteBundle:
-      dependsOn: []
     bigSize: true
     category: slot
