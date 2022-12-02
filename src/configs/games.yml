@@ -362,9 +362,8 @@ GAMES:
   - id: 61
     name: WinThreeCards
     key: WinThreeCards
-    order: 1
+    order: 1361
     remoteBundle:
-      dependsOn: []
-    bigSize: true
+      dependsOn: []    
     tag: new
     category: card
