@@ -359,3 +359,12 @@ GAMES:
     bigSize: true
     category: slot
     tag: new
+  - id: 61
+    name: WinThreeCards
+    key: WinThreeCards
+    order: 1
+    remoteBundle:
+      dependsOn: []
+    bigSize: true
+    tag: new
+    category: card
