@@ -7,67 +7,44 @@ GAMES:
     key: main
     mini:
       miniPanel: true
-    order: 1750
   - id: 1
     name: BigSmall
     key: BigSmall
     mini:
       miniPanel: true
-    order: 700
-    category: bigsmall
   - id: 2
     name: SeDie
     key: SeDie
-    order: 300
-    banner:
-      displayTime: 5
-      order: 5
-    category: sedie
   - id: 3
     name: FishPrawnCrab
     key: FishPrawnCrab
-    order: 1800
     mini:
       miniPanel: true
-    category: other
   - id: 4
     name: TurboBigSmall
     key: TXTurbo
-    order: 800
     mini:
       miniPanel: false
     route: turbobigsmall
-    category: bigsmall
   - id: 6
     name: TurboOddEven
     key: OETurbo
-    order: 900
     mini:
       miniPanel: true
     route: turbooddeven
-    category: bigsmall
   - id: 7
     name: DragonTiger
     key: DragonTiger
-    order: 1900
     mini:
       miniPanel: true
-    category: card
   - id: 8
     name: KenoProMax
     key: KenoProMax
-    order: 1300
-    category: lottery
   - id: 9
     name: MiniSeDie
     key: MiniSeDie
-    order: 500
     remoteBundle:
       dependsOn: []
-    banner:
-      displayTime: 5
-      order: 2
-    category: sedie
     route: minisedie
     mini:
       miniPanel: true
@@ -76,7 +53,6 @@ GAMES:
     key: MiniSeDie2
     remoteBundle:
       dependsOn: []
-    category: sedie
     route: minisedie
     mini:
       miniPanel: true
@@ -85,7 +61,6 @@ GAMES:
     key: MiniSeDie3
     remoteBundle:
       dependsOn: []
-    category: sedie
     route: minisedie
     mini:
       miniPanel: true
@@ -94,22 +69,18 @@ GAMES:
     key: MiniSeDie4
     remoteBundle:
       dependsOn: []
-    category: sedie
     route: minisedie
     mini:
       miniPanel: true
   - id: 10
     name: Baccarat
     key: Baccarat
-    order: 1600
-    category: card
   - id: 11
     name: KenoMax
     key: KenoMax
     mini:
       miniPanel: false
     route: minikeno
-    category: lottery
   - id: 13
     name: KenoMax2
     key: KenoMax2
@@ -155,126 +126,79 @@ GAMES:
   - id: 21
     name: Roulette
     key: Roulette
-    order: 2200
-    category: other
   - id: 22
     name: VipSedie
     key: VipSeDie
-    order: 200
     route: vsedie
-    category: sedie
   - id: 23
     name: BlackJack
     key: BlackJack
-    order: 2100
-    category: card
   - id: 24
     name: SpecialSeDie
     key: SpecialSeDie
-    order: 2000
     mini:
       miniPanel: false
-    category: sedie
   - id: 25
     name: SicBo
     key: SicBo
-    order: 600
-    category: bigsmall
   - id: 26
     name: VipFishPrawnCrab
     key: VipFishPrawnCrab
-    order: 1700
-    category: other
   - id: 27
     name: VipBaccarat
     key: VipBaccarat
-    order: 1500
-    category: card
   - id: 28
     name: VipSedieWar
     key: VipSedieWar
-    order: 400
-    category: sedie
   - id: 29
     name: FourGuardians
     key: FourGuardians
-    order: 1000
-    bigSize: true
-    category: slot
   - id: 31
     name: Lottery
     key: Lottery
-    order: 2300
-    category: lottery
   - id: 35
     name: ThreeCards
     key: ThreeCards
-    order: 2400
-    category: card
   - id: 38
     name: HeroesSlot
     key: HeroesSlot
-    order: 1100
-    bigSize: true
-    category: slot
   - id: 39
     name: CasinoHoldemPoker
     key: CasinoHoldemPoker
-    order: 2600
-    category: card
   - id: 42
     name: TexasHoldemPoker
     key: TexasHoldemPoker
-    order: 2800
-    category: card
-    banner:
-      displayTime: 5
-      order: 3
   - id: 43
     name: BitcoinMaster
     key: BitcoinMaster
     mini:
       miniPanel: false
-    order: 2500
-    category: other
   - id: 45
     name: HiLo
     key: Hilo
-    order: 2700
     mini:
       miniPanel: true
-    category: card
   - id: 46
     name: NightClub
     key: NightClub
-    order: 1200
-    bigSize: true
-    category: slot
   - id: 47
     name: TreasureIsland
     key: TreasureIsland
-    order: 1201
     remoteBundle:
       dependsOn: []
-    bigSize: true
-    category: slot
   - id: 50
     name: UnbalancedBigSmall1
     key: UnbalancedBigSmall1
-    order: 950
     remoteBundle:
       dependsOn: []
-    category: bigsmall
     route: unbalancedbigsmall
     mini:
       miniPanel: true
-    bigSize: true
   - id: 51
     name: UnbalancedBigSmall2
     key: UnbalancedBigSmall2
     remoteBundle:
       dependsOn: []
-    category: bigsmall
     route: unbalancedbigsmall
     mini:
       miniPanel: true
@@ -283,7 +207,6 @@ GAMES:
     key: UnbalancedBigSmall3
     remoteBundle:
       dependsOn: []
-    category: bigsmall
     route: unbalancedbigsmall
     mini:
       miniPanel: true
@@ -292,31 +215,20 @@ GAMES:
     key: UnbalancedBigSmall4
     remoteBundle:
       dependsOn: []
-    category: bigsmall
     route: unbalancedbigsmall
     mini:
       miniPanel: true
   - id: 48
     name: BlockchainBaccarat
     key: BlockchainBaccarat
-    order: 1400
     remoteBundle:
       dependsOn: []
-    banner:
-      displayTime: 5
-      order: 4
-    category: card
   - id: 52
     name: MegaKeno
     key: MegaKeno
     remoteBundle:
       dependsOn: []
-    order: 1350
     route: minikeno
-    banner:
-      displayTime: 10
-      order: 1
-    category: lottery
   - id: 53
     name: MegaKeno2
     key: MegaKeno2
@@ -326,44 +238,25 @@ GAMES:
   - id: 49
     name: WayToGoal
     key: WayToGoal
-    order: 1202
     remoteBundle:
-      dependsOn: []
-    bigSize: true
-    category: slot
+      dependsOn:[]
   - id: 59
     name: FruitSlot
     key: FruitSlot
-    order: 1203
     remoteBundle:
       dependsOn: []
-    bigSize: true
-    category: slot
   - id: 60
     name: FanTan
     key: FanTan
-    order: 1360
     remoteBundle:
       dependsOn: []
-    tag: new
-    category: other
-    banner:
-      displayTime: 5
-      order: 3
   - id: 62
     name: FortuneCat
     key: FortuneCat
-    order: 2
     remoteBundle:
       dependsOn: []
-    bigSize: true
-    category: slot
-    tag: new
   - id: 61
     name: WinThreeCards
     key: WinThreeCards
-    order: 1361
     remoteBundle:
       dependsOn: []    
-    tag: new
-    category: card
