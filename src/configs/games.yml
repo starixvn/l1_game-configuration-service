@@ -313,7 +313,6 @@ GAMES:
       dependsOn: []
     order: 1350
     route: minikeno
-    tag: new
     banner:
       displayTime: 10
       order: 1
