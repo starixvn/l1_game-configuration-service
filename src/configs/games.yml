@@ -339,6 +339,7 @@ GAMES:
     remoteBundle:
       dependsOn: []
     bigSize: true
+    tag: new
     category: slot
   - id: 60
     name: FanTan
