@@ -334,11 +334,10 @@ GAMES:
   - id: 59
     name: FruitSlot
     key: FruitSlot
-    order: 1
+    order: 1203
     remoteBundle:
       dependsOn: []
     bigSize: true
-    tag: new
     category: slot
   - id: 60
     name: FanTan
