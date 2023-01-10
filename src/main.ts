@@ -1,9 +1,11 @@
 import { NestFactory } from '@nestjs/core';
+import { NestExpressApplication } from '@nestjs/platform-express';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 import helmet from 'helmet';
 import * as PackageJson from '../package.json';
 import { AppModule } from './app-module';
 import { createLogger, loadYAMLFile } from './common';
+import { join } from 'path';
 
 const host = '0.0.0.0';
 const config = new DocumentBuilder()
@@ -14,11 +16,18 @@ const config = new DocumentBuilder()
 
 async function bootstrap() {
   const logger = createLogger();
-  const app = await NestFactory.create(AppModule, { logger });
+  const app = await NestFactory.create<NestExpressApplication>(AppModule, {
+    logger,
+  });
   const corsOptions = { origin: process.env.CORS_WHITELIST };
 
   app.useLogger(logger);
   app.use(helmet());
+
+  app.useStaticAssets(join(__dirname, 'static'), {
+    prefix: '/static',
+  });
+  
   app.enableCors(corsOptions);
 
   SwaggerModule.setup('api', app, SwaggerModule.createDocument(app, config));
