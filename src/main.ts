@@ -19,15 +19,16 @@ async function bootstrap() {
   const app = await NestFactory.create<NestExpressApplication>(AppModule, {
     logger,
   });
+  
   const corsOptions = { origin: process.env.CORS_WHITELIST };
 
   app.useLogger(logger);
-  app.use(helmet());
+  app.use(helmet({ crossOriginResourcePolicy: { policy: 'cross-origin' } }));
 
   app.useStaticAssets(join(__dirname, 'static'), {
     prefix: '/static',
   });
-  
+
   app.enableCors(corsOptions);
 
   SwaggerModule.setup('api', app, SwaggerModule.createDocument(app, config));
