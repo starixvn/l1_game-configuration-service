@@ -238,8 +238,7 @@ GAMES:
   - id: 49
     name: WayToGoal
     key: WayToGoal
-    remoteBundle:
-      dependsOn:[]
+    remoteBundle: dependsOn:[]
   - id: 59
     name: FruitSlot
     key: FruitSlot
@@ -255,8 +254,9 @@ GAMES:
     key: FortuneCat
     remoteBundle:
       dependsOn: []
+
   - id: 61
     name: WinThreeCards
     key: WinThreeCards
     remoteBundle:
-      dependsOn: []    
+      dependsOn: []
