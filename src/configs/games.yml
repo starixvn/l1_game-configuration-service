@@ -260,3 +260,9 @@ GAMES:
     key: WinThreeCards
     remoteBundle:
       dependsOn: []
+
+  - id: 63
+    name: HappyFish
+    key: HappyFish
+    remoteBundle:
+      dependsOn: []
