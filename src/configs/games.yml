@@ -254,13 +254,11 @@ GAMES:
     key: FortuneCat
     remoteBundle:
       dependsOn: []
-
   - id: 61
     name: WinThreeCards
     key: WinThreeCards
     remoteBundle:
       dependsOn: []
-
   - id: 63
     name: HappyFish
     key: HappyFish
