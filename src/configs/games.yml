@@ -260,7 +260,7 @@ GAMES:
     remoteBundle:
       dependsOn: []
   - id: 63
-    name: HappyFish
-    key: HappyFish
+    name: HappyOcean
+    key: HappyOcean
     remoteBundle:
       dependsOn: []
