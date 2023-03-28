@@ -264,3 +264,8 @@ GAMES:
     key: HappyFish
     remoteBundle:
       dependsOn: []
+  - id: 64
+    name: MagicForest
+    key: MagicForest
+    remoteBundle:
+      dependsOn: []
