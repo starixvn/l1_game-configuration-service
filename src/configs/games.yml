@@ -293,3 +293,8 @@ GAMES:
     key: BLACKPINK
     remoteBundle:
       dependsOn: []
+  - id: 199
+    name: FourGuardians2
+    key: FourGuardians2
+    remoteBundle:
+      dependsOn: []
