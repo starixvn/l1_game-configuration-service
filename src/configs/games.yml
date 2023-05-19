@@ -269,3 +269,8 @@ GAMES:
     key: MagicForest
     remoteBundle:
       dependsOn: []
+  - id: 65
+    name: DJClub
+    key: DJClub
+    remoteBundle:
+      dependsOn: []
