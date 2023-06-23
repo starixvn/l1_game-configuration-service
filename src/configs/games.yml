@@ -272,9 +272,11 @@ GAMES:
   - id: 65
     name: DJClub
     key: DJClub
-  - id: 199
-    name: TreasureIsland2
-    key: TreasureIsland2
+    remoteBundle:
+      dependsOn: []
+  - id: 66
+    name: CandyLand
+    key: CandyLand
     remoteBundle:
       dependsOn: []
   - id: 68
