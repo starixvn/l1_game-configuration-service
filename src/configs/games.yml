@@ -303,7 +303,7 @@ GAMES:
     key: FourGuardians3
     remoteBundle:
       dependsOn: []
-  - id: 108
+  - id: 111
     name: HappyFishJackpot
     key: HappyFishJackpot
     remoteBundle:
