@@ -274,3 +274,8 @@ GAMES:
     key: DJClub
     remoteBundle:
       dependsOn: []
+  - id: 68
+    name: MissionImpossible
+    key: MissionImpossible
+    remoteBundle:
+      dependsOn: []
