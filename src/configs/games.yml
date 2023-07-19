@@ -279,3 +279,8 @@ GAMES:
     key: MissionImpossible
     remoteBundle:
       dependsOn: []
+  - id: 69
+    name: BLACKPINK
+    key: BLACKPINK
+    remoteBundle:
+      dependsOn: []
