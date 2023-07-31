@@ -1,6 +1,9 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Param } from '@nestjs/common';
 import { QueryBus } from '@nestjs/cqrs';
-import { GetConfigurationRequest } from './requests';
+import {
+  GetConfigurationRequest,
+  GetConfigurationByIdRequest,
+} from './requests';
 
 @Controller('configurations')
 export class GameConfigurationController {
@@ -9,5 +12,10 @@ export class GameConfigurationController {
   @Get()
   getConfigurations() {
     return this.query.execute(new GetConfigurationRequest());
+  }
+
+  @Get(':gameId')
+  getConfigurationById(@Param('gameId') gameId: string) {
+    return this.query.execute(new GetConfigurationByIdRequest(+gameId));
   }
 }

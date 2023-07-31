@@ -16,4 +16,19 @@ describe('GameConfigurationController', () => {
       expect(result).toStrictEqual([1, 2, 3]);
     });
   });
+
+  describe('getConfigurationById', () => {
+    it('should execute query bus', () => {
+      const queryBus = {
+        execute: jest.fn().mockReturnValue({ isMicrosite: false }),
+      };
+      const controller = new GameConfigurationController(queryBus as any);
+
+      // Act
+      const result = controller.getConfigurationById('1');
+
+      // Assert
+      expect(result).toStrictEqual({ isMicrosite: false });
+    });
+  });
 });

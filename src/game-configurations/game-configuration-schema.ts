@@ -57,6 +57,9 @@ export class GameConfiguration {
   banner?: BannerConfiguration;
 
   category?: string;
+
+  @Prop()
+  isMicrosite?: boolean;
 }
 
 export const GameConfigurationSchema =

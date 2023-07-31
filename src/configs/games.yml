@@ -279,6 +279,10 @@ GAMES:
     key: CandyLand
     remoteBundle:
       dependsOn: []
+  - id: 67
+    name: DragonTigerFight
+    key: DragonTigerFight
+    isMicrosite: true
   - id: 68
     name: MissionImpossible
     key: MissionImpossible
