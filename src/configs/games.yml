@@ -293,21 +293,6 @@ GAMES:
     key: BLACKPINK
     remoteBundle:
       dependsOn: []
-  - id: 199
-    name: FourGuardians2
-    key: FourGuardians2
-    remoteBundle:
-      dependsOn: []
-  - id: 200
-    name: FourGuardians3
-    key: FourGuardians3
-    remoteBundle:
-      dependsOn: []
-  - id: 111
-    name: HappyFishJackpot
-    key: HappyFishJackpot
-    remoteBundle:
-      dependsOn: []
   - id: 70
     name: Transformers
     key: Transformers
