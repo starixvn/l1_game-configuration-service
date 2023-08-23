@@ -298,6 +298,10 @@ GAMES:
     key: Transformers
     remoteBundle:
       dependsOn: []
+  - id: 71
+    name: ColorGame
+    key: ColorGame
+    isMicrosite: true
   - id: 72
     name: Pontoon
     key: Pontoon
