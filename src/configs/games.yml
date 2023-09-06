@@ -298,3 +298,8 @@ GAMES:
     key: Transformers
     remoteBundle:
       dependsOn: []
+  - id: 72
+    name: Pontoon
+    key: Pontoon
+    remoteBundle:
+      dependsOn: []
