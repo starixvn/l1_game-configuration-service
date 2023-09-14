@@ -302,6 +302,7 @@ GAMES:
     name: ColorGame
     key: ColorGame
     isMicrosite: true
+    hasInstant: true
   - id: 72
     name: Pontoon
     key: Pontoon

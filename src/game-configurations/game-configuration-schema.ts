@@ -60,6 +60,9 @@ export class GameConfiguration {
 
   @Prop()
   isMicrosite?: boolean;
+
+  @Prop()
+  hasInstant?: boolean;
 }
 
 export const GameConfigurationSchema =
