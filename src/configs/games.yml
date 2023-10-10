@@ -311,4 +311,8 @@ GAMES:
   - id: 75
     name: BandarQiuQiu
     key: BandarQiuQiu
-    isMicrosite: true    
+    isMicrosite: true
+  - id: 73
+    name: SpaceFlight
+    key: SpaceFlight
+    isMicrosite: true
