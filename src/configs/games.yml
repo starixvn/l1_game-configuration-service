@@ -308,3 +308,7 @@ GAMES:
     key: Pontoon
     remoteBundle:
       dependsOn: []
+  - id: 75
+    name: BandarQiuQiu
+    key: BandarQiuQiu
+    isMicrosite: true    
