@@ -316,3 +316,8 @@ GAMES:
     name: SpaceFlight
     key: SpaceFlight
     isMicrosite: true
+  - id: 74
+    name: OnePiece
+    key: OnePiece
+    remoteBundle:
+      dependsOn: []
