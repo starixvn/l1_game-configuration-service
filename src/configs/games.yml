@@ -308,10 +308,7 @@ GAMES:
     key: Pontoon
     remoteBundle:
       dependsOn: []
-  - id: 75
-    name: BandarQiuQiu
-    key: BandarQiuQiu
-    isMicrosite: true
+    hasAnimationBanner: true
   - id: 73
     name: SpaceFlight
     key: SpaceFlight
@@ -321,8 +318,18 @@ GAMES:
     key: OnePiece
     remoteBundle:
       dependsOn: []
+  - id: 75
+    name: BandarQiuQiu
+    key: BandarQiuQiu
+    isMicrosite: true
+    hasAnimationBanner: true
   - id: 76
     name: DragonBall
     key: DragonBall
+    remoteBundle:
+      dependsOn: []
+  - id: 77
+    name: ChineseBlackjack
+    key: ChineseBlackjack
     remoteBundle:
       dependsOn: []
