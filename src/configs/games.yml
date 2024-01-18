@@ -321,3 +321,8 @@ GAMES:
     key: OnePiece
     remoteBundle:
       dependsOn: []
+  - id: 76
+    name: DragonBall
+    key: DragonBall
+    remoteBundle:
+      dependsOn: []
