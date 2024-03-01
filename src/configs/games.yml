@@ -308,7 +308,6 @@ GAMES:
     key: Pontoon
     remoteBundle:
       dependsOn: []
-    bannerType: 'animation'
   - id: 73
     name: SpaceFlight
     key: SpaceFlight
@@ -322,7 +321,6 @@ GAMES:
     name: BandarQiuQiu
     key: BandarQiuQiu
     isMicrosite: true
-    bannerType: 'animation'
   - id: 76
     name: DragonBall
     key: DragonBall
@@ -333,3 +331,4 @@ GAMES:
     key: ChineseBlackjack
     remoteBundle:
       dependsOn: []
+    bannerType: 'prefab'  
