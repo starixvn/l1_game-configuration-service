@@ -325,15 +325,20 @@ GAMES:
     name: DragonBall
     key: DragonBall
     remoteBundle:
-      dependsOn: []  
+      dependsOn: []
   - id: 77
     name: ChineseBlackjack
     key: ChineseBlackjack
     remoteBundle:
       dependsOn: []
-    bannerType: 'prefab'  
+    bannerType: 'prefab'
   - id: 79
     name: FootballSlot
     key: FootballSlot
     remoteBundle:
       dependsOn: []
+    bannerType: 'prefab'
+  - id: 78
+    name: FootballDice
+    key: FootballDice
+    isMicrosite: true
