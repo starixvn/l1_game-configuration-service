@@ -332,3 +332,8 @@ GAMES:
     remoteBundle:
       dependsOn: []
     bannerType: 'prefab'  
+  - id: 79
+    name: FootballSlot
+    key: FootballSlot
+    remoteBundle:
+      dependsOn: []
