@@ -337,7 +337,6 @@ GAMES:
     key: FootballSlot
     remoteBundle:
       dependsOn: []
-    bannerType: 'prefab'
   - id: 78
     name: FootballDice
     key: FootballDice
