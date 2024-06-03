@@ -341,3 +341,8 @@ GAMES:
     name: FootballDice
     key: FootballDice
     isMicrosite: true
+  - id: 80
+    name: CoinToss
+    key: CoinToss
+    isMicrosite: true
+    hasInstant: true
