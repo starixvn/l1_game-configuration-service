@@ -346,3 +346,8 @@ GAMES:
     key: CoinToss
     isMicrosite: true
     hasInstant: true
+    remoteBundle:
+      dependsOn: []
+    route: cointoss
+    mini:
+      miniPanel: true  
