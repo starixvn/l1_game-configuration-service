@@ -350,9 +350,13 @@ GAMES:
       dependsOn: []
     route: cointoss
     mini:
-      miniPanel: true  
+      miniPanel: true
   - id: 93
     name: FootballCoinToss
     key: FootballCoinToss
     isMicrosite: true
     hasInstant: true
+  - id: 81
+    name: Bac81
+    key: Bac81
+    isMicrosite: true
