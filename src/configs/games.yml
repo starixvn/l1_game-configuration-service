@@ -351,3 +351,8 @@ GAMES:
     route: cointoss
     mini:
       miniPanel: true  
+  - id: 93
+    name: FootballCoinToss
+    key: FootballCoinToss
+    isMicrosite: true
+    hasInstant: true
