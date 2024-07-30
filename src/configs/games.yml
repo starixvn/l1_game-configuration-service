@@ -356,6 +356,11 @@ GAMES:
     key: FootballCoinToss
     isMicrosite: true
     hasInstant: true
+  - id: 94
+    name: Pusoy
+    key: Pusoy
+    isMicrosite: true
+
   - id: 81
     name: Bac81
     key: Bac81
