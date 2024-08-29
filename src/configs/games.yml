@@ -365,6 +365,10 @@ GAMES:
     name: Bac81
     key: Bac81
     isMicrosite: true
+    gateway:
+      id: 81
+    remoteBundle:
+      dependsOn: []
   - id: 95
     name: Sedie3
     key: Sedie3
