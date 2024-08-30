@@ -363,4 +363,8 @@ GAMES:
   - id: 95
     name: Sedie3
     key: Sedie3
-    isMicrosite: true    
+    isMicrosite: true
+  - id: 96
+    name: Karakrus
+    key: Karakrus
+    isMicrosite: true
