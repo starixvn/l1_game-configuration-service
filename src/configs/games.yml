@@ -360,6 +360,11 @@ GAMES:
     key: FootballCoinToss
     isMicrosite: true
     hasInstant: true
+    remoteBundle:
+      dependsOn: []
+    route: footballcointoss
+    mini:
+      miniPanel: true
   - id: 94
     name: Pusoy
     key: Pusoy
