@@ -377,3 +377,11 @@ GAMES:
     name: Karakrus
     key: Karakrus
     isMicrosite: true
+  - id: 84
+    name: Baccarat2
+    key: Baccarat2
+    isMicrosite: true
+    gateway:
+      id: 81
+    remoteBundle:
+      dependsOn: []
