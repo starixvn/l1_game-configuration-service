@@ -378,8 +378,8 @@ GAMES:
     key: Karakrus
     isMicrosite: true
   - id: 84
-    name: Baccarat2
-    key: Baccarat2
+    name: Bac84
+    key: Bac84
     isMicrosite: true
     gateway:
       id: 81
