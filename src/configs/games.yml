@@ -75,6 +75,8 @@ GAMES:
   - id: 10
     name: Baccarat
     key: Baccarat
+    gateway:
+      id: 81
   - id: 11
     name: KenoMax
     key: KenoMax
@@ -147,6 +149,8 @@ GAMES:
   - id: 27
     name: VipBaccarat
     key: VipBaccarat
+    gateway:
+      id: 81
   - id: 28
     name: VipSedieWar
     key: VipSedieWar
