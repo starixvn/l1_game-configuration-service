@@ -389,3 +389,11 @@ GAMES:
       id: 81
     remoteBundle:
       dependsOn: []
+  - id: 98
+    name: Bac98
+    key: Bac98
+    isMicrosite: true
+    gateway:
+      id: 81
+    remoteBundle:
+      dependsOn: []
