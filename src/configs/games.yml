@@ -76,7 +76,7 @@ GAMES:
     name: Baccarat
     key: Baccarat
     gateway:
-      id: 81
+      id: 102
   - id: 11
     name: KenoMax
     key: KenoMax
@@ -150,7 +150,7 @@ GAMES:
     name: VipBaccarat
     key: VipBaccarat
     gateway:
-      id: 81
+      id: 102
   - id: 28
     name: VipSedieWar
     key: VipSedieWar
@@ -367,10 +367,9 @@ GAMES:
 
   - id: 81
     name: Bac81
-    key: Bac81
     isMicrosite: true
     gateway:
-      id: 81
+      id: 102
     remoteBundle:
       dependsOn: []
   - id: 95
@@ -381,19 +380,106 @@ GAMES:
     name: Karakrus
     key: Karakrus
     isMicrosite: true
-  - id: 84
-    name: Bac84
-    key: Bac84
+  - id: 102
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 82
+    name: Bac82
     isMicrosite: true
     gateway:
-      id: 81
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 83
+    name: Bac83
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 84
+    name: Bac84
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 85
+    name: Bac85
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 87
+    name: Bac87
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 88
+    name: Bac88
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 89
+    name: Bac89
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 90
+    name: Bac90
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 91
+    name: Bac91
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 92
+    name: Bac92
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 97
+    name: Bac97
+    isMicrosite: true
+    gateway:
+      id: 102
     remoteBundle:
       dependsOn: []
   - id: 98
     name: Bac98
-    key: Bac98
     isMicrosite: true
     gateway:
-      id: 81
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 100
+    name: Bac100
+    isMicrosite: true
+    gateway:
+      id: 102
+    remoteBundle:
+      dependsOn: []
+  - id: 101
+    name: Bac100
+    isMicrosite: true
+    gateway:
+      id: 102
     remoteBundle:
       dependsOn: []
