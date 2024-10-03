@@ -371,8 +371,6 @@ GAMES:
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 95
     name: Sedie3
     key: Sedie3
@@ -393,117 +391,87 @@ GAMES:
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 83
     name: LuckyBaccarat3
     key: Bac83
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 84
     name: Baccarat2
     key: Bac84
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 85
     name: Baccarat3
     key: Bac85
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 86
     name: VIPBaccarat2
     key: Bac86
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 87
     name: VIPBaccarat3
     key: Bac87
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 88
     name: LuckyBaccarat4
     key: Bac88
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 89
     name: LuckyBaccarat5
     key: Bac89
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 90
     name: Baccarat4
     key: Bac90
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 91
     name: Baccarat5
     key: Bac91
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 92
     name: VIPBaccarat4
     key: Bac92
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 97
     name: VIPBaccarat5
     key: Bac97
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 98
     name: SpeedBaccarat
     key: Bac98
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 100
     name: SpeedBaccara2
     key: Bac100
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
   - id: 101
     name: SpeedBaccarat3
     key: Bac101
     isMicrosite: true
     gateway:
       id: 102
-    remoteBundle:
-      dependsOn: []
