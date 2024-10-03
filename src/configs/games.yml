@@ -75,8 +75,6 @@ GAMES:
   - id: 10
     name: Baccarat
     key: Baccarat
-    gateway:
-      id: 102
   - id: 11
     name: KenoMax
     key: KenoMax
