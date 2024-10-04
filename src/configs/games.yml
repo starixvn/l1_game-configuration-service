@@ -225,6 +225,8 @@ GAMES:
     key: BlockchainBaccarat
     remoteBundle:
       dependsOn: []
+    gateway:
+      id: 102
   - id: 52
     name: MegaKeno
     key: MegaKeno
