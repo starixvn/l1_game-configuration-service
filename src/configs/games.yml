@@ -482,3 +482,13 @@ GAMES:
     isMicrosite: true
     gateway:
       id: 102
+  - id: 103
+    name: SevenUpDown
+    key: SevenUpDown
+    isMicrosite: true
+    hasInstant: true
+    remoteBundle:
+      dependsOn: []
+    route: sevenupdown
+    mini:
+      miniPanel: true
