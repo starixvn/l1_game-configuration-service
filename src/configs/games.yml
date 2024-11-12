@@ -183,6 +183,8 @@ GAMES:
   - id: 46
     name: NightClub
     key: NightClub
+    remoteBundle:
+      dependsOn: []
   - id: 47
     name: TreasureIsland
     key: TreasureIsland
