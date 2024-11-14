@@ -164,6 +164,8 @@ GAMES:
   - id: 38
     name: HeroesSlot
     key: HeroesSlot
+    remoteBundle:
+      dependsOn: []
   - id: 39
     name: CasinoHoldemPoker
     key: CasinoHoldemPoker
