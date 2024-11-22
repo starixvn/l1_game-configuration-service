@@ -155,6 +155,8 @@ GAMES:
   - id: 29
     name: FourGuardians
     key: FourGuardians
+    remoteBundle:
+      dependsOn: []
   - id: 31
     name: Lottery
     key: Lottery
