@@ -488,6 +488,7 @@ GAMES:
     name: SevenUpDown
     key: SevenUpDown
     isMicrosite: true
+    hasInstant: true
     remoteBundle:
       dependsOn: []
     route: sevenupdown
