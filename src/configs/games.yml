@@ -493,3 +493,7 @@ GAMES:
     route: sevenupdown
     mini:
       miniPanel: true
+  - id: 106
+    name: ChristmasCrash
+    key: ChristmasCrash
+    isMicrosite: true
