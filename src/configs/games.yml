@@ -504,3 +504,7 @@ GAMES:
     name: MarbleFootball
     key: MarbleFootball
     isMicrosite: true
+  - id: 107
+    name: GoldenTree
+    key: GoldenTree
+    isMicrosite: true
