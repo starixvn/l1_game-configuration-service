@@ -1,9 +1,9 @@
 import { WinstonModule } from 'nest-winston';
+import { hostname } from 'os';
 import { format, transports } from 'winston';
 import SentryTransport, {
   SentryTransportOptions,
 } from 'winston-transport-sentry-node';
-import { hostname } from 'os';
 
 export function createLogger() {
   const sentryOptions: SentryTransportOptions = {
@@ -28,6 +28,6 @@ export function createLogger() {
     transports: [
       new transports.Console(consoleOptions),
       new SentryTransport(sentryOptions),
-    ],
+    ] as any[],
   });
 }
