@@ -25,6 +25,7 @@
     "@nestjs/platform-express": "10.4.15",
     "@nestjs/swagger": "8.1.1",
     "@nestjs/terminus": "10.2.3",
+    "@sentry/node": "8.48.0",
     "helmet": "8.0.0",
     "js-yaml": "4.1.0",
     "mongoose": "8.9.5",
