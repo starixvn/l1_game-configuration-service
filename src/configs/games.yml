@@ -508,3 +508,7 @@ GAMES:
     name: TapFortune
     key: TapFortune
     isMicrosite: true
+  - id: 109
+    name: CoinMining
+    key: CoinMining
+    isMicrosite: true
