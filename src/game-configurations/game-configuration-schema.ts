@@ -63,6 +63,9 @@ export class GameConfiguration {
 
   @Prop()
   hasInstant?: boolean;
+
+  @Prop()
+  isOpenDirectly?: boolean;
 }
 
 export const GameConfigurationSchema =

@@ -504,6 +504,7 @@ GAMES:
     name: MarbleFootball
     key: MarbleFootball
     isMicrosite: true
+    isOpenDirectly: true
   - id: 107
     name: TapFortune
     key: TapFortune
