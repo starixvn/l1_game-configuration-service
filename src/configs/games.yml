@@ -532,3 +532,8 @@ GAMES:
     key: CoinMining
     isMicrosite: true
     isOpenDirectly: true
+  - id: 113
+    name: RocketX
+    key: RocketX
+    isMicrosite: true
+    isOpenDirectly: true
