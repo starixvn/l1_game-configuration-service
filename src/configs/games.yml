@@ -537,3 +537,8 @@ GAMES:
     key: RocketX
     isMicrosite: true
     isOpenDirectly: true
+  - id: 114
+    name: MarbleFootball2
+    key: MarbleFootball2
+    isMicrosite: true
+    isOpenDirectly: true
