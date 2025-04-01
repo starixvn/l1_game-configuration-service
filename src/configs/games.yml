@@ -542,3 +542,8 @@ GAMES:
     key: MarbleFootball2
     isMicrosite: true
     isOpenDirectly: true
+  - id: 117
+    name: GodOfFortune
+    key: GodOfFortune
+    remoteBundle:
+      dependsOn: []
