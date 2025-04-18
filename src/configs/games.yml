@@ -567,3 +567,8 @@ GAMES:
     key: NeZhasRebellion
     remoteBundle:
       dependsOn: []
+  - id: 121
+    name: wukongsrevenge
+    key: wukongsrevenge
+    isMicrosite: true
+    isOpenDirectly: true
