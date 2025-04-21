@@ -557,3 +557,9 @@ GAMES:
     key: OneDayInParadise
     remoteBundle:
       dependsOn: []
+
+  - id: 133
+    name: TempleOfCaiShen
+    key: TempleOfCaiShen
+    remoteBundle:
+      dependsOn: []
