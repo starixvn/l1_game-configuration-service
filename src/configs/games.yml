@@ -559,7 +559,7 @@ GAMES:
       dependsOn: []
 
   - id: 133
-    name: TempleOfCaiShen
-    key: TempleOfCaiShen
+    name: TempleOfCaishen
+    key: TempleOfCaishen
     remoteBundle:
       dependsOn: []
