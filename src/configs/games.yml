@@ -552,12 +552,6 @@ GAMES:
     key: RamsesLostTomb
     remoteBundle:
       dependsOn: []
-  - id: 125
-    name: OneDayInParadise
-    key: OneDayInParadise
-    remoteBundle:
-      dependsOn: []
-
   - id: 133
     name: TempleOfCaishen
     key: TempleOfCaishen
