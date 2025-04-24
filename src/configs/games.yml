@@ -552,3 +552,8 @@ GAMES:
     key: RamsesLostTomb
     remoteBundle:
       dependsOn: []
+  - id: 125
+    name: OneDayInParadise
+    key: OneDayInParadise
+    remoteBundle:
+      dependsOn: []
