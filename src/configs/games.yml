@@ -562,3 +562,8 @@ GAMES:
     key: TempleOfCaishen
     remoteBundle:
       dependsOn: []
+  - id: 124
+    name: NeZhasRebellion
+    key: NeZhasRebellion
+    remoteBundle:
+      dependsOn: []
