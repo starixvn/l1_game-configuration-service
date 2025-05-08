@@ -572,3 +572,13 @@ GAMES:
     key: wukongsrevenge
     isMicrosite: true
     isOpenDirectly: true
+  - id: 122
+    name: SummerHeat
+    key: SummerHeat
+    remoteBundle:
+      dependsOn: []
+  - id: 126
+    name: poseidonsrealm
+    key: poseidonsrealm
+    isMicrosite: true
+    isOpenDirectly: true
