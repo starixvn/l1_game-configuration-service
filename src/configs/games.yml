@@ -295,6 +295,7 @@ GAMES:
     name: DragonTigerFight
     key: DragonTigerFight
     isMicrosite: true
+    isOpenDirectly: true
   - id: 68
     name: MissionImpossible
     key: MissionImpossible
@@ -315,6 +316,7 @@ GAMES:
     key: ColorGame
     isMicrosite: true
     hasInstant: true
+    isOpenDirectly: true
   - id: 72
     name: Pontoon
     key: Pontoon
@@ -324,6 +326,7 @@ GAMES:
     name: SpaceFlight
     key: SpaceFlight
     isMicrosite: true
+    isOpenDirectly: true
   - id: 74
     name: OnePiece
     key: OnePiece
@@ -333,6 +336,7 @@ GAMES:
     name: BandarQiuQiu
     key: BandarQiuQiu
     isMicrosite: true
+    isOpenDirectly: true
   - id: 76
     name: DragonBall
     key: DragonBall
@@ -353,6 +357,7 @@ GAMES:
     name: FootballDice
     key: FootballDice
     isMicrosite: true
+    isOpenDirectly: true
   - id: 80
     name: CoinToss
     key: CoinToss
@@ -377,6 +382,7 @@ GAMES:
     name: Pusoy
     key: Pusoy
     isMicrosite: true
+    isOpenDirectly: true
 
   - id: 81
     name: LuckyBaccarat
@@ -389,10 +395,12 @@ GAMES:
     name: Sedie3
     key: Sedie3
     isMicrosite: true
+    isOpenDirectly: true
   - id: 96
     name: Karakrus
     key: Karakrus
     isMicrosite: true
+    isOpenDirectly: true
   - id: 102
     name: BaccaratXLobby
     gateway:
