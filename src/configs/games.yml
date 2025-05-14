@@ -15,6 +15,7 @@ GAMES:
   - id: 2
     name: SeDie
     key: SeDie
+    isSupportedPortraitMode: true
   - id: 3
     name: FishPrawnCrab
     key: FishPrawnCrab
@@ -75,6 +76,7 @@ GAMES:
   - id: 10
     name: Baccarat
     key: Baccarat
+    isSupportedPortraitMode: true
   - id: 11
     name: KenoMax
     key: KenoMax

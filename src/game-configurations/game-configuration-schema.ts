@@ -66,6 +66,9 @@ export class GameConfiguration {
 
   @Prop()
   isOpenDirectly?: boolean;
+
+  @Prop()
+  isSupportedPortraitMode?: boolean;
 }
 
 export const GameConfigurationSchema =
