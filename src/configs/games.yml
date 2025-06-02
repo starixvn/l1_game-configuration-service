@@ -597,3 +597,13 @@ GAMES:
     key: mahjongwins
     isMicrosite: true
     isOpenDirectly: true
+  - id: 129
+    name: wildwestmostwanted
+    key: wildwestmostwanted
+    isMicrosite: true
+    isOpenDirectly: true
+  - id: 130
+    name: aladdin
+    key: aladdin
+    isMicrosite: true
+    isOpenDirectly: true
