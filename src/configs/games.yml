@@ -597,6 +597,11 @@ GAMES:
     key: mahjongwins
     isMicrosite: true
     isOpenDirectly: true
+  - id: 128
+    name: aztecwarriorprincess
+    key: aztecwarriorprincess
+    isMicrosite: true
+    isOpenDirectly: true
   - id: 129
     name: wildwestmostwanted
     key: wildwestmostwanted
