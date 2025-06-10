@@ -612,6 +612,9 @@ GAMES:
     key: aladdinswishes
     isMicrosite: true
     isOpenDirectly: true
+  - id: 134
+    name: MiniRoulette
+    key: MiniRoulette
   - id: 132
     name: fruitsamurai
     key: fruitsamurai
