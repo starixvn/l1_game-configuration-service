@@ -612,3 +612,8 @@ GAMES:
     key: aladdin
     isMicrosite: true
     isOpenDirectly: true
+  - id: 132
+    name: fruitsamurai
+    key: fruitsamurai
+    isMicrosite: true
+    isOpenDirectly: true
