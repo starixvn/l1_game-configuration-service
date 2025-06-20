@@ -598,8 +598,8 @@ GAMES:
     isMicrosite: true
     isOpenDirectly: true
   - id: 128
-    name: aztecwarriorprincess
-    key: aztecwarriorprincess
+    name: aztecprincess
+    key: aztecprincess
     isMicrosite: true
     isOpenDirectly: true
   - id: 129
