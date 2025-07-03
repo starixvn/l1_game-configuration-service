@@ -625,6 +625,11 @@ GAMES:
     key: vivafiesta
     isMicrosite: true
     isOpenDirectly: true
+  - id: 141
+    name: bigbassfishing
+    key: bigbassfishing
+    isMicrosite: true
+    isOpenDirectly: true
   - id: 131
     name: happyfarm
     key: happyfarm
