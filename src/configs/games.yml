@@ -620,6 +620,11 @@ GAMES:
     key: fruitsamurai
     isMicrosite: true
     isOpenDirectly: true
+  - id: 140
+    name: vivafiesta
+    key: vivafiesta
+    isMicrosite: true
+    isOpenDirectly: true
   - id: 131
     name: happyfarm
     key: happyfarm
