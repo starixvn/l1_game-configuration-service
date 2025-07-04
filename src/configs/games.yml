@@ -630,6 +630,11 @@ GAMES:
     key: bigbassfishing
     isMicrosite: true
     isOpenDirectly: true
+  - id: 139
+    name: olympub
+    key: olympub
+    isMicrosite: true
+    isOpenDirectly: true
   - id: 131
     name: happyfarm
     key: happyfarm
