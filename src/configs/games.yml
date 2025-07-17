@@ -640,3 +640,8 @@ GAMES:
     key: happyfarm
     isMicrosite: true
     isOpenDirectly: true
+  - id: 143
+    name: luckyneko
+    key: luckyneko
+    isMicrosite: true
+    isOpenDirectly: true
