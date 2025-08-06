@@ -645,3 +645,13 @@ GAMES:
     key: luckyneko
     isMicrosite: true
     isOpenDirectly: true
+  - id: 142
+    name: streetwarrior
+    key: streetwarrior
+    isMicrosite: true
+    isOpenDirectly: true
+  - id: 146
+    name: totemrush
+    key: totemrush
+    isMicrosite: true
+    isOpenDirectly: true
