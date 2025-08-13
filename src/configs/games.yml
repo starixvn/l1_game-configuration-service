@@ -665,3 +665,6 @@ GAMES:
     key: queenofbounty
     isMicrosite: true
     isOpenDirectly: true
+  - id: 148
+    name: SeDieMultiplayer
+    key: SeDieMultiplayer
