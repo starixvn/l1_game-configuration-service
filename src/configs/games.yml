@@ -655,6 +655,11 @@ GAMES:
     key: totemrush
     isMicrosite: true
     isOpenDirectly: true
+  - id: 147
+    name: pickleballlovestory
+    key: pickleballlovestory
+    isMicrosite: true
+    isOpenDirectly: true
   - id: 155
     name: queenofbounty
     key: queenofbounty
