@@ -655,3 +655,8 @@ GAMES:
     key: totemrush
     isMicrosite: true
     isOpenDirectly: true
+  - id: 155
+    name: queenofbounty
+    key: queenofbounty
+    isMicrosite: true
+    isOpenDirectly: true
