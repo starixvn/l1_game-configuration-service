@@ -27,13 +27,16 @@
     "@nestjs/terminus": "8.1.0",
     "helmet": "5.1.0",
     "js-yaml": "4.1.0",
-    "mongoose": "6.4.1",
+    "mongoose": "6.13.6",
     "nest-winston": "1.6.2",
     "reflect-metadata": "0.1.13",
     "rxjs": "7.5.5",
     "swagger-ui-express": "4.4.0",
     "winston": "3.8.1",
     "winston-transport-sentry-node": "2.4.0"
+  },
+  "resolutions": {
+    "form-data": "4.0.4"
   },
   "devDependencies": {
     "@nestjs/cli": "8.2.8",

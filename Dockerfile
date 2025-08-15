@@ -1,4 +1,4 @@
-FROM hub.lumigame.com/docker-hub/library/node:18.1-alpine AS builder
+FROM hub.lumigame.com/base/node:18-alpine-25h2 AS builder
 WORKDIR /app
 
 COPY package.json yarn.lock  ./
@@ -8,7 +8,7 @@ RUN npm run build
 
 # Cleaner Stage
 
-FROM hub.lumigame.com/docker-hub/library/node:18.1-alpine as cleaner
+FROM hub.lumigame.com/base/node:18-alpine-25h2 as cleaner
 WORKDIR /app
 
 COPY .modprunerrc .
@@ -23,7 +23,7 @@ RUN yarn reg\
 
 # Production Stage
 
-FROM hub.lumigame.com/docker-hub/library/node:18.1-alpine
+FROM hub.lumigame.com/base/node:18-alpine-25h2
 USER node
 WORKDIR /app
 ENV NODE_ENV production
