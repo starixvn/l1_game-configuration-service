@@ -668,3 +668,8 @@ GAMES:
   - id: 148
     name: SeDieMultiplayer
     key: SeDieMultiplayer
+  - id: 144
+    name: CrashX
+    key: CrashX
+    isMicrosite: true
+    isOpenDirectly: true
