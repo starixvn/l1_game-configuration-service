@@ -69,6 +69,9 @@ export class GameConfiguration {
 
   @Prop()
   isSupportedPortraitMode?: boolean;
+
+  @Prop()
+  isResponsive?: boolean;
 }
 
 export const GameConfigurationSchema =

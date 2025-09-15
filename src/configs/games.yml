@@ -705,6 +705,7 @@ GAMES:
   - id: 148
     name: SeDieMultiplayer
     key: SeDieMultiplayer
+    isResponsive: true
   - id: 144
     name: CrashX
     key: CrashX
