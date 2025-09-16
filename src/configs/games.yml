@@ -684,3 +684,9 @@ GAMES:
     key: CrashX
     isMicrosite: true
     isOpenDirectly: true
+  - id: 156
+    name: soccerpingoal
+    key: soccerpingoal
+    isMicrosite: true
+    isOpenDirectly: true
+    isPortraitGame: true
