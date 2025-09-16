@@ -706,6 +706,10 @@ GAMES:
     name: SeDieMultiplayer
     key: SeDieMultiplayer
     isResponsive: true
+  - id: 150
+    name: BaccaratMultiplayer
+    key: BaccaratMultiplayer
+    isResponsive: true
   - id: 144
     name: CrashX
     key: CrashX
