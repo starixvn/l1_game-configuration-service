@@ -660,6 +660,7 @@ GAMES:
     key: pickleballlovestory
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 155
     name: queenofbounty
     key: queenofbounty
