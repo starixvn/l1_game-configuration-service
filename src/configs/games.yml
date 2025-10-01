@@ -635,6 +635,7 @@ GAMES:
     key: olympub
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 131
     name: happyfarm
     key: happyfarm
