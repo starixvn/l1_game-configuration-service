@@ -289,8 +289,9 @@ GAMES:
   - id: 66
     name: CandyLand
     key: CandyLand
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    isPortraitGame: true
   - id: 67
     name: DragonTigerFight
     key: DragonTigerFight
@@ -582,6 +583,7 @@ GAMES:
     key: wukongsrevenge
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 122
     name: SummerHeat
     key: SummerHeat
@@ -602,16 +604,19 @@ GAMES:
     key: aztecprincess
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 129
     name: wildwestmostwanted
     key: wildwestmostwanted
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 130
     name: aladdinswishes
     key: aladdinswishes
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 134
     name: MiniRoulette
     key: MiniRoulette
@@ -625,6 +630,7 @@ GAMES:
     key: vivafiesta
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 141
     name: bigbassfishing
     key: bigbassfishing
@@ -651,6 +657,7 @@ GAMES:
     key: streetwarrior
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 146
     name: totemrush
     key: totemrush
