@@ -702,6 +702,10 @@ GAMES:
     isMicrosite: true
     isOpenDirectly: true
     isPortraitGame: true
+  - id: 145
+    name: Plinko
+    key: Plinko
+    isResponsive: true
   - id: 148
     name: SeDieMultiplayer
     key: SeDieMultiplayer
