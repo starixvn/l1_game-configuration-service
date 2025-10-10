@@ -594,6 +594,7 @@ GAMES:
     key: poseidonsrealm
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 127
     name: mahjongwins
     key: mahjongwins
