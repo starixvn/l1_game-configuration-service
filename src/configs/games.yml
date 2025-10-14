@@ -554,10 +554,11 @@ GAMES:
     isMicrosite: true
     isOpenDirectly: true
   - id: 117
-    name: GodOfFortune
-    key: GodOfFortune
-    remoteBundle:
-      dependsOn: []
+    name: godoffortune
+    key: godoffortune
+    isMicrosite: true
+    isOpenDirectly: true
+    isPortraitGame: true
   - id: 123
     name: RamsesLostTomb
     key: RamsesLostTomb
