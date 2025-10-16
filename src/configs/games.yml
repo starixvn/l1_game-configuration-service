@@ -601,6 +601,7 @@ GAMES:
     key: mahjongwins
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 128
     name: aztecprincess
     key: aztecprincess
