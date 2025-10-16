@@ -626,6 +626,7 @@ GAMES:
     key: fruitsamurai
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 140
     name: vivafiesta
     key: vivafiesta
