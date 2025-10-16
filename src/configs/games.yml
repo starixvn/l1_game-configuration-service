@@ -654,6 +654,7 @@ GAMES:
     key: luckyneko
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 142
     name: streetwarrior
     key: streetwarrior
