@@ -639,6 +639,7 @@ GAMES:
     key: bigbassfishing
     isMicrosite: true
     isOpenDirectly: true
+    isPortraitGame: true
   - id: 139
     name: olympub
     key: olympub
