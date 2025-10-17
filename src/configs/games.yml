@@ -194,8 +194,9 @@ GAMES:
   - id: 47
     name: TreasureIsland
     key: TreasureIsland
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    isPortraitGame: true
   - id: 50
     name: UnbalancedBigSmall1
     key: UnbalancedBigSmall1
