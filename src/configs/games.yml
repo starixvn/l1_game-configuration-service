@@ -568,8 +568,9 @@ GAMES:
   - id: 125
     name: OneDayInParadise
     key: OneDayInParadise
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    isPortraitGame: true
   - id: 133
     name: TempleOfCaishen
     key: TempleOfCaishen
