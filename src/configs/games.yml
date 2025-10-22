@@ -563,8 +563,9 @@ GAMES:
   - id: 123
     name: RamsesLostTomb
     key: RamsesLostTomb
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    isPortraitGame: true
   - id: 125
     name: OneDayInParadise
     key: OneDayInParadise
