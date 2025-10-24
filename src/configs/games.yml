@@ -725,3 +725,7 @@ GAMES:
     isMicrosite: true
     isOpenDirectly: true
     isPortraitGame: true
+  - id: 159
+    name: PlinkoX
+    key: PlinkoX
+    isResponsive: true
