@@ -734,3 +734,4 @@ GAMES:
     name: PlinkoX
     key: PlinkoX
     isResponsive: true
+    isMicrosite: true
