@@ -158,6 +158,7 @@ GAMES:
     name: FourGuardians
     key: FourGuardians
     isMicrosite: true
+    isOpenDirectly: true
     portrait: 2
   - id: 31
     name: Lottery
@@ -281,6 +282,7 @@ GAMES:
     name: MagicForest
     key: MagicForest
     isMicrosite: true
+    isOpenDirectly: true
     portrait: 2
   - id: 65
     name: DJClub
@@ -592,6 +594,7 @@ GAMES:
     name: SummerHeat
     key: SummerHeat
     isMicrosite: true
+    isOpenDirectly: true
     portrait: 2
   - id: 126
     name: poseidonsrealm
