@@ -157,8 +157,8 @@ GAMES:
   - id: 29
     name: FourGuardians
     key: FourGuardians
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    portrait: 2
   - id: 31
     name: Lottery
     key: Lottery
@@ -280,8 +280,8 @@ GAMES:
   - id: 64
     name: MagicForest
     key: MagicForest
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    portrait: 2
   - id: 65
     name: DJClub
     key: DJClub
@@ -592,7 +592,7 @@ GAMES:
     name: SummerHeat
     key: SummerHeat
     isMicrosite: true
-    isOpenDirectly: true
+    portrait: 2
   - id: 126
     name: poseidonsrealm
     key: poseidonsrealm
