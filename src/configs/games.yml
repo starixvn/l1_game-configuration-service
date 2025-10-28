@@ -735,3 +735,4 @@ GAMES:
     key: PlinkoX
     isResponsive: true
     isMicrosite: true
+    isOpenDirectly: true
