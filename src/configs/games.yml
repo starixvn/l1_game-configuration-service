@@ -252,7 +252,9 @@ GAMES:
   - id: 49
     name: WayToGoal
     key: WayToGoal
-    remoteBundle: dependsOn:[]
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 59
     name: FruitSlot
     key: FruitSlot
@@ -334,8 +336,9 @@ GAMES:
   - id: 74
     name: OnePiece
     key: OnePiece
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 75
     name: BandarQiuQiu
     key: BandarQiuQiu
@@ -344,8 +347,9 @@ GAMES:
   - id: 76
     name: DragonBall
     key: DragonBall
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 77
     name: ChineseBlackjack
     key: ChineseBlackjack
@@ -577,8 +581,9 @@ GAMES:
   - id: 133
     name: TempleOfCaishen
     key: TempleOfCaishen
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 124
     name: NeZhasRebellion
     key: NeZhasRebellion
