@@ -169,8 +169,9 @@ GAMES:
   - id: 38
     name: HeroesSlot
     key: HeroesSlot
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 39
     name: CasinoHoldemPoker
     key: CasinoHoldemPoker
@@ -587,8 +588,9 @@ GAMES:
   - id: 124
     name: NeZhasRebellion
     key: NeZhasRebellion
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 121
     name: wukongsrevenge
     key: wukongsrevenge
