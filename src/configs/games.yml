@@ -269,8 +269,9 @@ GAMES:
   - id: 62
     name: FortuneCat
     key: FortuneCat
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 61
     name: WinThreeCards
     key: WinThreeCards
@@ -311,8 +312,9 @@ GAMES:
   - id: 69
     name: BLACKPINK
     key: BLACKPINK
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 70
     name: Transformers
     key: Transformers
