@@ -291,8 +291,9 @@ GAMES:
   - id: 65
     name: DJClub
     key: DJClub
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 66
     name: CandyLand
     key: CandyLand
@@ -318,8 +319,9 @@ GAMES:
   - id: 70
     name: Transformers
     key: Transformers
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 71
     name: ColorGame
     key: ColorGame
