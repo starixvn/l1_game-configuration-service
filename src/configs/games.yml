@@ -191,8 +191,9 @@ GAMES:
   - id: 46
     name: NightClub
     key: NightClub
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 47
     name: TreasureIsland
     key: TreasureIsland
@@ -280,8 +281,9 @@ GAMES:
   - id: 63
     name: HappyFish
     key: HappyFish
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 64
     name: MagicForest
     key: MagicForest
