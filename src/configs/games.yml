@@ -310,8 +310,9 @@ GAMES:
   - id: 68
     name: MissionImpossible
     key: MissionImpossible
-    remoteBundle:
-      dependsOn: []
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
   - id: 69
     name: BLACKPINK
     key: BLACKPINK
