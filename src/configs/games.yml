@@ -738,3 +738,9 @@ GAMES:
     isMicrosite: true
     isOpenDirectly: true
     isOpenRedirectSite: true
+  - id: 161
+    name: shaolinsoccer
+    key: shaolinsoccer
+    isMicrosite: true
+    isOpenDirectly: true
+    isPortraitGame: true
