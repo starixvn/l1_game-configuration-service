@@ -736,4 +736,4 @@ GAMES:
     isResponsive: true
     isMicrosite: true
     isOpenDirectly: true
-    isRedirectSite: true
+    isOpenRedirectSite: true

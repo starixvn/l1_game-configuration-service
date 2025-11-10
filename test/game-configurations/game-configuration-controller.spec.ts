@@ -30,5 +30,18 @@ describe('GameConfigurationController', () => {
       // Assert
       expect(result).toStrictEqual({ isMicrosite: false });
     });
+
+    it('should return configuration when isOpenRedirectSite is true', () => {
+      const queryBus = {
+        execute: jest.fn().mockReturnValue({ isOpenRedirectSite: true }),
+      };
+      const controller = new GameConfigurationController(queryBus as any);
+
+      // Act
+      const result = controller.getConfigurationById('1');
+
+      // Assert
+      expect(result).toStrictEqual({ isOpenRedirectSite: true });
+    });
   });
 });

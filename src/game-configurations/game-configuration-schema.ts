@@ -72,6 +72,9 @@ export class GameConfiguration {
 
   @Prop()
   isResponsive?: boolean;
+
+  @Prop()
+  isOpenRedirectSite?: boolean;
 }
 
 export const GameConfigurationSchema =
