@@ -724,7 +724,7 @@ GAMES:
     key: soccerpingoal
     isMicrosite: true
     isOpenDirectly: true
-    portrait: 2
+    isPortraitGame: true
   - id: 157
     name: ChickenRoad
     key: ChickenRoad
