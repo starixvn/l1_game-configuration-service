@@ -199,7 +199,7 @@ GAMES:
     key: TreasureIsland
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 50
     name: UnbalancedBigSmall1
     key: UnbalancedBigSmall1
@@ -301,7 +301,7 @@ GAMES:
     key: CandyLand
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 67
     name: DragonTigerFight
     key: DragonTigerFight
@@ -573,19 +573,19 @@ GAMES:
     key: godoffortune
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 123
     name: RamsesLostTomb
     key: RamsesLostTomb
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 125
     name: OneDayInParadise
     key: OneDayInParadise
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 133
     name: TempleOfCaishen
     key: TempleOfCaishen
@@ -603,7 +603,7 @@ GAMES:
     key: wukongsrevenge
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 122
     name: SummerHeat
     key: SummerHeat
@@ -615,31 +615,31 @@ GAMES:
     key: poseidonsrealm
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 127
     name: mahjongwins
     key: mahjongwins
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 128
     name: aztecprincess
     key: aztecprincess
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 129
     name: wildwestmostwanted
     key: wildwestmostwanted
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 130
     name: aladdinswishes
     key: aladdinswishes
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 134
     name: MiniRoulette
     key: MiniRoulette
@@ -648,43 +648,43 @@ GAMES:
     key: fruitsamurai
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 140
     name: vivafiesta
     key: vivafiesta
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 141
     name: bigbassfishing
     key: bigbassfishing
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 139
     name: olympub
     key: olympub
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 131
     name: happyfarm
     key: happyfarm
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 143
     name: luckyneko
     key: luckyneko
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 142
     name: streetwarrior
     key: streetwarrior
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 146
     name: totemrush
     key: totemrush
@@ -695,13 +695,13 @@ GAMES:
     key: pickleballlovestory
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 155
     name: queenofbounty
     key: queenofbounty
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 145
     name: Plinko
     key: Plinko
@@ -724,7 +724,7 @@ GAMES:
     key: soccerpingoal
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 157
     name: ChickenRoad
     key: ChickenRoad
