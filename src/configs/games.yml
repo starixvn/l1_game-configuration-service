@@ -738,3 +738,9 @@ GAMES:
     isMicrosite: true
     isOpenDirectly: true
     isOpenRedirectSite: true
+  - id: 163
+    name: Ludo
+    key: Ludo
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
