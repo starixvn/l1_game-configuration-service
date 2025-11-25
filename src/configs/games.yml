@@ -730,7 +730,7 @@ GAMES:
     key: ChickenRoad
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
   - id: 159
     name: PlinkoX
     key: PlinkoX
