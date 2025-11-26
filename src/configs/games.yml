@@ -743,4 +743,4 @@ GAMES:
     key: shaolinsoccer
     isMicrosite: true
     isOpenDirectly: true
-    isPortraitGame: true
+    portrait: 2
