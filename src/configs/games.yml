@@ -738,3 +738,9 @@ GAMES:
     isMicrosite: true
     isOpenDirectly: true
     isOpenRedirectSite: true
+  - id: 158
+    name: marbles158
+    key: marbles158
+    isMicrosite: true
+    isOpenDirectly: true
+    isPortraitGame: true
