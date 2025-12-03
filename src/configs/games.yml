@@ -744,3 +744,15 @@ GAMES:
     isMicrosite: true
     isOpenDirectly: true
     portrait: 2
+  - id: 166
+    name: ChickenLove
+    key: ChickenLove
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
+  - id: 167
+    name: ChickenRace
+    key: ChickenRace
+    isMicrosite: true
+    isOpenDirectly: true
+    portrait: 2
